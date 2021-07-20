@@ -1,3 +1,3 @@
-# projects
-# Amazon webpage 
-# test plan and test cases
+# this is my practice project! 
+# test documentation: test plan and test cases
+# java test scripts for: 
